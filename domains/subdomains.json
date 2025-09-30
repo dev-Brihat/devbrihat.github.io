@@ -1,9 +1,10 @@
 {
     "owner": {
-        "username": "github-username",
-        "email": "me@example.com"
+        "username": "dev-Brihat",
+        "email": "contact.brihat@gmail.com"
     },
     "records": {
-        "CNAME": "github-username.github.io"
+        "CNAME": "dev-brihat.github.io"
     }
 }
+
